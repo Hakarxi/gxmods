@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
-    "developer":
+    "name": "Gojo Satoru",
+    "description": "Domain expansion: moryokusho",
+    "developer": Hakarxi
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "Gojo Sounds"
     },
     "icons":
     {
@@ -70,7 +70,7 @@
                 ],
                 "TAB_INSERT":
                 [
-                    "sound/new_tab.mp3"
+                    "sound/Ryoiki_tenkai.mp3"
                 ],
                 "TAB_SLASH":
                 [
